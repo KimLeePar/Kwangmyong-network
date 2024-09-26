@@ -103,8 +103,10 @@ Flask (pip install flask)
 1. 레포지토리 클론
 
 git clone https://github.com/KimLeePar/Kwangmyong-network.git
-cd Kwangmyong-network
 
+
+
+cd Kwangmyong-network
 
 2. 의존성 설치 Python 구성 요소의 경우:
 
